@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DersNotlari" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java2022Winter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java2022Winter/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java2022Winter/src/day01_variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java2022WinterTr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java2022WinterTr/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java2022WinterTr/src/day01_variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaAdvanced" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaDersNotlari" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaPractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_AdvancedJavaPractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_java2022WinterTr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_java2022WinterTr/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_java2022WinterTr/src/day01_variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_javaPractice2022" vcs="Git" />
+  </component>
+</project>

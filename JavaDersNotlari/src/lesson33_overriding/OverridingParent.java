@@ -1,0 +1,11 @@
+package lesson33_overriding;
+
+public class OverridingParent {
+    public   void method1(){
+        System.out.println("Parent Class Method1");
+    }
+
+    public   void method2(){
+        System.out.println("Parent Class Method2");
+    }
+}

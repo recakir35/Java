@@ -1,0 +1,12 @@
+package lesson27_accessModifier;
+
+public class C02_AccessModifier {
+    public static void main(String[] args) {
+        C01_accessModifier obj= new C01_accessModifier();
+        obj.acikString ="Bye";
+        C01_accessModifier.acikSayi=50;
+        // C01.sayi=15; private access modifier'i oldugundan baska class'dan erisilemez
+        // obj.method1; private access modifier'i oldugundan baska class'dan erisil
+        // C01 objParametreli= new C01(5); private access modifier'i oldugundan baska class'dan erisil
+    }
+}
